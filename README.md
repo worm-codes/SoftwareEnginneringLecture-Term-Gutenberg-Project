@@ -36,8 +36,9 @@ Methodology: Choose one of sw development methodologies, XP, Scrum or Kanban. Th
 During implementation phase, the teams should mind about the errors they get (syntax, logic and runtime errors, fatal errors, etc). They must classify the errors in groups.  
 
 
-## SWE Gutenberg Project Contributers
 # Methodology: Scrum
+
+## SWE Gutenberg Project Contributers
 Oğuzhan ÇEVİK 170316045 <br>
 Ege Kutay Yürüşen 180316017 <br>
 Burak Sürümcüoğlu 180316007 <br>
