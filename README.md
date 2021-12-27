@@ -44,5 +44,5 @@ Burak Sürümcüoğlu 180316007 <br>
 Meriç Gündüz 190315073 <br>
 Hüsamettin Demirtaş 190315074 <br>
 Kağan Değirmen 180316032 <br>
-Mehmet Berkay Coruk 180316035 <br>
+Mehmet Berkay Coruk 180316035 
 
