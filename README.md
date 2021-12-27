@@ -37,7 +37,7 @@ During implementation phase, the teams should mind about the errors they get (sy
 
 
 ## SWE Gutenberg Project Contributers
-#Methodology: Scrum
+# Methodology: Scrum
 Oğuzhan ÇEVİK 170316045 <br>
 Ege Kutay Yürüşen 180316017 <br>
 Burak Sürümcüoğlu 180316007 <br>
