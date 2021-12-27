@@ -37,3 +37,14 @@ Team members’ IDs, Names and Surnames – Methodology chosen.
 Project Due: 14.12.2021
 
 During implementation phase, the teams should mind about the errors they get (syntax, logic and runtime errors, fatal errors, etc). They must classify the errors in groups.  
+
+
+## SWE Gutenberg Project Contributers
+Oğuzhan Çevik 170316045
+Ege Kutay Yürüşen 180316017
+Burak Sürümcüoğlu 180316007
+Meriç Gündüz 190315073
+Hüsamettin Demirtaş 190315074
+Kağan Değirmen 180316032
+Mehmet Berkay Coruk 180316035
+
