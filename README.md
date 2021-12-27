@@ -38,7 +38,7 @@ During implementation phase, the teams should mind about the errors they get (sy
 
 
 ## SWE Gutenberg Project Contributers
-Oğuzhan Çevik 170316045 <br>
+Oğuzhan ÇEVİK 170316045 <br>
 Ege Kutay Yürüşen 180316017 <br>
 Burak Sürümcüoğlu 180316007 <br>
 Meriç Gündüz 190315073 <br>
