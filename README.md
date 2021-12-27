@@ -30,14 +30,14 @@ Make a requirements engineering study for your project. Follow these steps:
 •	Draw and explain your architectural design
 
 Methodology: Choose one of sw development methodologies, XP, Scrum or Kanban. The students will form project teams with 5 to 7 people for Scrum, 3 – 5 people for Kanban and 4 - 6 people for XP. During the semester, the project team will work together through the full development cycle, applying the principles of SCRUM, XP or Kanban, from understanding the requirements to delivering a functioning product, and making a series of presentation of the work to the client.
-How to apply: Send an e-mail to Arş. Gör. Emre ŞATIR with the following information:
-Team members’ IDs, Names and Surnames – Methodology chosen.
-Project Due: 14.12.2021
+
+
 
 During implementation phase, the teams should mind about the errors they get (syntax, logic and runtime errors, fatal errors, etc). They must classify the errors in groups.  
 
 
 ## SWE Gutenberg Project Contributers
+#Methodology: Scrum
 Oğuzhan ÇEVİK 170316045 <br>
 Ege Kutay Yürüşen 180316017 <br>
 Burak Sürümcüoğlu 180316007 <br>
